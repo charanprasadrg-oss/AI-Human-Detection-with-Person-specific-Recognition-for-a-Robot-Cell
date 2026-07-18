@@ -1,0 +1,4 @@
+ultralytics==8.2.0
+numpy>=1.23
+# On Jetson, install OpenCV with:
+# sudo apt-get install python3-opencv
